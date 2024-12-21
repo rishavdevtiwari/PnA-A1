@@ -1,7 +1,7 @@
 #Question No 19
 
-username=str(input("Enter Username:"))
-password=str(input("Enter Password:"))
+username=input("Enter Username:")
+password=input("Enter Password:")
 if(username=="admin" and password=="admin"):
     print("Access Granted")
 else:
