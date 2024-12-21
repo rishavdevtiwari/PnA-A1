@@ -1,6 +1,6 @@
 #Question No 13
 
-i=str(input("Enter (red/yellow/green):"))
+i=input("Enter (red/yellow/green):")
 if(i=="red"):
     print("Stop")
 elif(i=="yellow"):
