@@ -1,6 +1,6 @@
 #Question No 16
 
-m=str(input("Enter Menu Option(Pizza, Burger, Pasta)"))
+m=input("Enter Menu Option(Pizza, Burger, Pasta)")
 if(m=="Pizza"):
     print("Pizza: $10")
 elif(m=="Burger"):
