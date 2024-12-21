@@ -1,6 +1,6 @@
 #Question No 12
 
-a=str(input("Enter a character"))
+a=input("Enter a character")
 if(a.isuppercase()):
     print("uppercase")
 elif(a.islowercase()):
