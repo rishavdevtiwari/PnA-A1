@@ -2,7 +2,7 @@
 
 a=int(input("Enter First Number:"))
 b=int(input("Enter Second Number:"))
-o=str(input("Enter Operator:"))
+o=input("Enter Operator:")
 if(o=="+"):
     c=a+b
     print(f"Your answer is: {c}")
